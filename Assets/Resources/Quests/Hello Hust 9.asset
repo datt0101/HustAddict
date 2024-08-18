@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe44cebfb2802544e9512a7a0c3215b3, type: 3}
+  m_Name: Hello Hust 9
+  m_EditorClassIdentifier: 
+  questLevel: 0
+  questTitle: Hello Hust 9
+  questDescription: "T\xF2a nh\xE0 D8 l\xE0 1 t\xF2a nh\xE0 m\u1EDBi \u0111\u01B0\u1EE3c
+    x\xE2y d\u1EF1ng c\xE1ch \u0111\xE2y v\xE0i n\u0103m, v\u1EDBi 30 gi\u1EA3ng
+    \u0111\u01B0\u1EDDng c\u0169ng nh\u01B0 c\xE1c ph\xF2ng th\xED nghi\u1EC7m ph\u1EE5c
+    v\u1EE5 cho c\xE1c m\xF4n h\u1ECDc, c\xE1c d\u1EF1 \xE1n c\u1EE7a nh\xE0 tr\u01B0\u1EDDng.
+    H\xE3y t\xECm t\u1EDBi t\xF2a nh\xE0 D8"
+  questID: 8
+  questSummary: "\u0110i t\u1EDBi \u0111\u1ECBa \u0111i\u1EC3m t\xF2a nh\xE0 D8"
+  questPoint: 10
+  questAnswer: 0
+  questProgress: 1
+  questType: 4
+  questReward: 3

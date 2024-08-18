@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32876147dcb50a4429cd23a5db86af4d, type: 3}
+  m_Name: Quizz 6 HUST 1
+  m_EditorClassIdentifier: 
+  lessonName: Quizz 6
+  lessonTheory: ' '
+  lessonFormula: ' '
+  questionProfileList:
+  - {fileID: 11400000, guid: ad3428b0fdd51a54ba1cff0841303a49, type: 2}
+  - {fileID: 11400000, guid: 35f1a41a14c9af4459fcb492bdb8e474, type: 2}
+  - {fileID: 11400000, guid: 719a47c8250957d4a9411750cead4996, type: 2}
+  - {fileID: 11400000, guid: 2ab83e4990c12c04dae27e39e2043462, type: 2}

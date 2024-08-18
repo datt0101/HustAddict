@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0fdac68f3ab7c4da2be307f599738b, type: 3}
+  m_Name: Q5 3
+  m_EditorClassIdentifier: 
+  questionAsk: "Ch\u1ECDn c\xE2u tr\u1EA3 l\u1EDDi \u0111\xFAng"
+  questionContent: "Sinh vi\xEAn n\u1EA1p ti\u1EC1n g\u1EEDi xe \u1EDF \u0111\xE2u?"
+  questionSelect:
+  - "Ph\xF2ng CTSV"
+  - "Trung t\xE2m KTX"
+  - "Ph\xF2ng \u0110\xE0o t\u1EA1o"
+  - "Trung t\xE2m ph\u1EE5c v\u1EE5 B\xE1ch Khoa"
+  questionAnswer: "Trung t\xE2m ph\u1EE5c v\u1EE5 B\xE1ch Khoa"
+  questionPoint: 5

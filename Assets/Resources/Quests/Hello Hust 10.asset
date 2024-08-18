@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe44cebfb2802544e9512a7a0c3215b3, type: 3}
+  m_Name: Hello Hust 10
+  m_EditorClassIdentifier: 
+  questLevel: 0
+  questTitle: Hello Hust 10
+  questDescription: "T\xF2a nh\xE0 D4 l\xE0 n\u01A1i b\u1ED1 tr\xED c\xE1c ph\xF2ng
+    ban c\u1EE7a vi\u1EC7n Ngo\u1EA1i ng\u1EEF. H\xE3y t\xECm t\u1EDBi t\xF2a nh\xE0
+    D4"
+  questID: 9
+  questSummary: "\u0110i t\u1EDBi \u0111\u1ECBa \u0111i\u1EC3m t\xF2a nh\xE0 D4"
+  questPoint: 10
+  questAnswer: 0
+  questProgress: 1
+  questType: 4
+  questReward: 3

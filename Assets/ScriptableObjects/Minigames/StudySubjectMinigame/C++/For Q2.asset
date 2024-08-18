@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0fdac68f3ab7c4da2be307f599738b, type: 3}
+  m_Name: For Q2
+  m_EditorClassIdentifier: 
+  questionAsk: "Sau khi th\u1EF1c hi\u1EC7n \u0111o\u1EA1n ch\u01B0\u01A1ng tr\xECnh
+    tr\xEAn, gi\xE1 tr\u1ECB c\u1EE7a s l\xE0:"
+  questionContent: s=0; for ( i =1;i<=5;i++) { s=s+i; }
+  questionSelect:
+  - 1
+  - 15
+  - 6
+  - 21
+  questionAnswer: 15
+  questionPoint: 5

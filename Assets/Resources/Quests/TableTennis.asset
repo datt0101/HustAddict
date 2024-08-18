@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe44cebfb2802544e9512a7a0c3215b3, type: 3}
+  m_Name: TableTennis
+  m_EditorClassIdentifier: 
+  questLevel: 0
+  questTitle: "B\xF3ng b\xE0n"
+  questDescription: "B\xF3ng b\xE0n l\xE0 b\u1ED9 m\xF4n gi\xE1o d\u1EE5c th\u1EC3
+    ch\u1EA5t t\u1EF1 ch\u1ECDn cho sinh vi\xEAn.Ra c\u1ED5ng tr\u01B0\u1EDDng g\u1EA7n
+    C7 v\xE0 gi\xE0nh chi\u1EBFn th\u1EAFng 1 hi\u1EC7p \u0111\u1EA5u \u0111\u1EC3
+    ho\xE0n th\xE0nh nhi\u1EC7m v\u1EE5."
+  questID: 47
+  questSummary: "Chi\u1EBFn th\u1EAFng tr\u1EADn \u0111\u1EA5u"
+  questPoint: 10
+  questAnswer: 0
+  questProgress: 1
+  questType: 2
+  questReward: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe44cebfb2802544e9512a7a0c3215b3, type: 3}
+  m_Name: Hello Hust 14
+  m_EditorClassIdentifier: 
+  questLevel: 0
+  questTitle: Hello Hust 14
+  questDescription: "B\u1EA1n \u0111\xE3 xem xong b\u1EA3n \u0111\u1ED3 ch\u01B0a?
+    Th\u1EED t\xECm 1 s\u1ED1 ph\xF2ng nh\xE9. Tr\u01B0\u1EDBc ti\xEAn h\xE3y \u0111\u1EBFn
+    ph\xF2ng C\xF4ng t\xE1c sinh vi\xEAn. \u0110\xE2y l\xE0 n\u01A1i gi\xFAp gi\u1EA3i
+    \u0111\xE1p th\u1EAFc m\u1EAFc c\u1EE7a sinh vi\xEAn li\xEAn quan \u0111\u1EBFn
+    v\u1EA5n \u0111\u1EC1 h\u1ECDc t\u1EADp v\xE0 gi\u1EA5y t\u1EDD."
+  questID: 13
+  questSummary: "T\xECm ph\xF2ng 603 t\xF2a C7"
+  questPoint: 10
+  questAnswer: 0
+  questProgress: 1
+  questType: 4
+  questReward: 3

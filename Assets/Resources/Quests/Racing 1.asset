@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe44cebfb2802544e9512a7a0c3215b3, type: 3}
+  m_Name: Racing 1
+  m_EditorClassIdentifier: 
+  questLevel: 0
+  questTitle: "Cu\u1ED9c \u0111ua h\xE0ng ng\xE0y 1"
+  questDescription: "Tham gia ch\u1EA1y b\u1ED9 gi\xFAp t\u0103ng c\u01B0\u1EDDng
+    s\u1EE9c kh\u1ECFe cho sinh vi\xEAn. T\xECm t\u1EDBi c\u1ED5ng tr\u01B0\u1EDDng
+    TDN nh\u1EADn nhi\u1EC7m v\u1EE5 v\xE0 b\u1EAFt \u0111\u1EA7u ch\u1EA1y t\u1EDBi
+    D9"
+  questID: 52
+  questSummary: "T\u1EDBi b\u1EA3ng v\u1ECB tr\xED c\u1ED5ng T\u0110N v\xE0 ch\u1EA1y
+    t\u1EDBi b\u1EA3ng v\u1ECB tr\xED D9"
+  questPoint: 10
+  questAnswer: 0
+  questProgress: 3
+  questType: 1
+  questReward: 2

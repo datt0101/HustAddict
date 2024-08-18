@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe44cebfb2802544e9512a7a0c3215b3, type: 3}
+  m_Name: Hello Hust 13
+  m_EditorClassIdentifier: 
+  questLevel: 0
+  questTitle: Hello Hust 13
+  questDescription: "V\u0103n ph\xF2ng c\u1EE7a tr\u01B0\u1EDDng \u0110i\u1EC7n -
+    \u0110i\u1EC7n t\u1EED n\u1EB1m tr\xEAn t\u1EA7ng 6. H\xE3y t\u1EDBi t\u1EA7ng
+    6 t\xECm b\u1EA3n \u0111\u1ED3 v\u0103n ph\xF2ng Tr\u01B0\u1EDDng c\u1EE7a t\xF2a."
+  questID: 12
+  questSummary: "L\xEAn t\u1EA7ng 6 t\xECm b\u1EA3n \u0111\u1ED3 \u0111\u01B0\u1EE3c
+    treo tr\xEAn t\u01B0\u1EDDng."
+  questPoint: 10
+  questAnswer: 0
+  questProgress: 1
+  questType: 4
+  questReward: 3

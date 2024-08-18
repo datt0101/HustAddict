@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe44cebfb2802544e9512a7a0c3215b3, type: 3}
+  m_Name: PageOfLawBook
+  m_EditorClassIdentifier: 
+  questLevel: 0
+  questTitle: "S\u1ED1 trang c\u1EE7a quy\u1EC3n Ph\xE1p Lu\u1EADt \u0110\u1EA1i
+    C\u01B0\u01A1ng"
+  questDescription: "t\u1EDBi Th\u01B0 vi\u1EC7n TQB \u0111\u1EC3 tr\u1EA3 l\u1EDDi
+    c\xE2u h\u1ECFi quy\u1EC3n gi\xE1o tr\xECnh Ph\xE1p lu\u1EADt \u0111\u1EA1i c\u01B0\u01A1ng
+    c\xF3 t\u1ED5ng c\u1ED9ng bao nhi\xEAu trang.."
+  questID: 25
+  questSummary: "T\xECm t\u1EDBi th\u01B0 vi\u1EC7n v\xE0 nh\u1EADp ch\xEDnh x\xE1c
+    s\u1ED1 trang c\u1EE7a quy\u1EC3n s\xE1ch"
+  questPoint: 10
+  questAnswer: 0
+  questProgress: 1
+  questType: 5
+  questReward: 3

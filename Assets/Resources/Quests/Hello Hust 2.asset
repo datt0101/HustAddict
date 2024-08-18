@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe44cebfb2802544e9512a7a0c3215b3, type: 3}
+  m_Name: Hello Hust 2
+  m_EditorClassIdentifier: 
+  questLevel: 0
+  questTitle: Hello Hust 2
+  questDescription: "T\xF2a nh\xE0 C1 l\xE0 t\xF2a nh\xE0 d\xE0nh cho c\xE1c v\u1EA5n
+    \u0111\u1EC1 v\u1EC1 c\xF4ng t\xE1c t\u1ED5 ch\u1EE9c v\xE0 qu\u1EA3n l\xFD \u0111\xE0o
+    t\u1EA1o. Ngo\xE0i ra c\xF2n l\xE0 n\u01A1i c\xF3 c\xE1c ph\xF2ng ban gi\u1EA3i
+    quy\u1EBFt th\u1EE7 t\u1EE5c h\xE0nh ch\xEDnh cho sinh vi\xEAn. H\xE3y t\xECm
+    t\xF2a nh\xE0 C1"
+  questID: 1
+  questSummary: "\u0110i t\u1EDBi \u0111\u1ECBa \u0111i\u1EC3m t\xF2a nh\xE0 C1"
+  questPoint: 10
+  questAnswer: 0
+  questProgress: 1
+  questType: 4
+  questReward: 3

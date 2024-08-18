@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe44cebfb2802544e9512a7a0c3215b3, type: 3}
+  m_Name: Hello Hust 24
+  m_EditorClassIdentifier: 
+  questLevel: 0
+  questTitle: Hello Hust 24
+  questDescription: "Quan s\xE1t xung quanh, ti\u1EBFn h\xE0nh thu th\u1EADp m\xF4
+    h\xECnh \u0110\u1EA1i h\u1ECDc B\xE1ch Khoa HN"
+  questID: 31
+  questSummary: "Thu th\u1EADp m\xF4 h\xECnh B\xE1ch Khoa xu\u1EA5t hi\u1EC7n trong
+    ph\xF2ng"
+  questPoint: 10
+  questAnswer: 0
+  questProgress: 1
+  questType: 4
+  questReward: 3

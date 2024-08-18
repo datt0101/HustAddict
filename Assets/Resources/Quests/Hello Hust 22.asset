@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe44cebfb2802544e9512a7a0c3215b3, type: 3}
+  m_Name: Hello Hust 22
+  m_EditorClassIdentifier: 
+  questLevel: 0
+  questTitle: Hello Hust 22
+  questDescription: "Ti\u1EBFp theo, h\xE3y t\u1EDBi th\u01B0 vi\u1EC7n T\u1EA1 Quang
+    B\u1EEDu \u0111\u1EC3 tham quan ph\xF2ng b\u1EA3o t\xE0ng c\u1EE7a \u0110\u1EA1i
+    h\u1ECDc B\xE1ch Khoa H\xE0 N\u1ED9i."
+  questID: 29
+  questSummary: "V\xE0o trong th\u01B0 vi\u1EC7n T\u1EA1 Quang B\u1EEDu v\xE0 t\xECm
+    NPC qu\u1EA3n l\xED"
+  questPoint: 10
+  questAnswer: 0
+  questProgress: 1
+  questType: 4
+  questReward: 3

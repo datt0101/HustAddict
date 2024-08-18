@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe44cebfb2802544e9512a7a0c3215b3, type: 3}
+  m_Name: "Nh\xE0 n\u1EA5m B\xE1ch Khoa"
+  m_EditorClassIdentifier: 
+  questLevel: 0
+  questTitle: "Gi\xE1o tr\xECnh gi\u1EA3i t\xEDch"
+  questDescription: "Mu\u1ED1n th\u01B0\u1EDFng th\u1EE9c c\u1ED1c coffee ngon? H\xE3y
+    t\u1EDBi ngay v\u1EDBi nh\xE0 N\u1EA5m B\xE1ch Khoa \u1EDF khu v\u1EF1c qu\u1EA3ng
+    tr\u01B0\u1EDDng C2"
+  questID: 38
+  questSummary: "T\xECm nh\xE0 N\u1EA5m B\xE1ch Khoa t\u1EA1i qu\u1EA3ng tr\u01B0\u1EDDng
+    C2"
+  questPoint: 10
+  questAnswer: 0
+  questProgress: 1
+  questType: 3
+  questReward: 2

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe44cebfb2802544e9512a7a0c3215b3, type: 3}
+  m_Name: Hello Hust 23
+  m_EditorClassIdentifier: 
+  questLevel: 0
+  questTitle: Hello Hust 23
+  questDescription: "H\xE3y l\xEAn ph\xF2ng 301 \u0111\u1EC3 b\u1EAFt \u0111\u1EA7u
+    chuy\u1EBFn tham quan ph\xF2ng b\u1EA3o t\xE0ng."
+  questID: 30
+  questSummary: "T\xECm ph\xF2ng 301 trong Th\u01B0 vi\u1EC7n T\u1EA1 Quang B\u1EEDu"
+  questPoint: 10
+  questAnswer: 0
+  questProgress: 1
+  questType: 4
+  questReward: 3

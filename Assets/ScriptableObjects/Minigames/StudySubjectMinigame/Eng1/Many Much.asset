@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32876147dcb50a4429cd23a5db86af4d, type: 3}
+  m_Name: Many Much
+  m_EditorClassIdentifier: 
+  lessonName: Many & Much
+  lessonTheory: "Much \u0111\u01B0\u1EE3c s\u1EED d\u1EE5ng tr\u01B0\u1EDBc Danh
+    t\u1EEB kh\xF4ng \u0111\u1EBFm \u0111\u01B0\u1EE3c. Th\u01B0\u1EDDng s\u1EED
+    d\u1EE5ng trong c\xE2u ph\u1EE7 \u0111inh. Trong c\xE2u kh\u1EB3ng \u0111\u1ECBnh
+    c\u1EA7n th\xEAm so, too, as,.."
+  lessonFormula: "Many \u0111\u01B0\u1EE3c s\u1EED d\u1EE5ng tr\u01B0\u1EDBc Danh
+    t\u1EEB \u0111\u1EBFm \u0111\u01B0\u1EE3c, d\xF9ng cho c\u1EA3 c\xE2u kh\u1EB3ng
+    \u0111\u1ECBnh v\xE0 ph\u1EE7 \u0111\u1ECBnh"
+  questionProfileList:
+  - {fileID: 11400000, guid: a7446a99daaf79943be3dc7a6aa305a1, type: 2}
+  - {fileID: 11400000, guid: f0610b2425b3ffe40996ad4e77076a97, type: 2}
+  - {fileID: 11400000, guid: bae0e9c0317b68340911379555b7a910, type: 2}
